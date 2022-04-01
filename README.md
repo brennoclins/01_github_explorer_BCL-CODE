@@ -2,12 +2,14 @@
 
 System to consume Github API data
 
-### Link to first live 
+### Link to lives 
+
 <a 
   href="https://www.youtube.com/watch?v=x91QG_Ow9kM&list=PLjgUGqkuP8vM4dTD0NTlR_JPw_cHKw0Wl" 
   target="_blank">
-    <img src="./001_BCL-CODE.png"  width="500" height="300"/>
+    <img src="./BCL-CODE.png"  width="500" height="300"/>
 </a>
+
 
 ### Tools and technologies used in the project 
 
@@ -19,6 +21,8 @@ System to consume Github API data
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  width="60" height="60" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="60" height="60" />
+          
           
 </div>
 
