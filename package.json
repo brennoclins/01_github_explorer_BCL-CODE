@@ -1,0 +1,13 @@
+{
+  "name": "01_github_explorer",
+  "version": "1.0.0",
+  "description": "System to consume Github API data",
+  "main": "index.js",
+  "author": "Brenno",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
