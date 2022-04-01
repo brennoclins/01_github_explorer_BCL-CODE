@@ -1,5 +1,5 @@
-function App() {
+export function App() {
   return (
-    <h1>Olá pessoal da live :)</h1>
+    <h1>ReactJS :)</h1>
   )
 }
