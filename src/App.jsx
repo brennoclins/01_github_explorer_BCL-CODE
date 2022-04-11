@@ -1,5 +1,6 @@
 export function App() {
+  throw new Error('Ops! bugou kkkk');
   return (
-    <h1>Configurando o Webpack Dev Server</h1>
+    <h1>Ola pessoal da live opa :)</h1>
   )
 }
