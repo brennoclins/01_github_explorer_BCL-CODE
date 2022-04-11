@@ -5,6 +5,10 @@
   "main": "index.js",
   "author": "Brenno",
   "license": "MIT",
+  "scripts": {
+    "dev": "webpack serve",
+    "build": "cross-env NODE_ENV=production webpack"
+  },
   "devDependencies": {
     "@babel/cli": "^7.17.6",
     "@babel/core": "^7.17.8",
@@ -17,6 +21,7 @@
     "webpack-dev-server": "^4.8.1"
   },
   "dependencies": {
+    "cross-env": "^7.0.3",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   }
