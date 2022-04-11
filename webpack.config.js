@@ -16,6 +16,9 @@ module.exports = {
       template: path.resolve(__dirname, 'public', 'index.html')
     })
   ],
+  devServer: {
+    static: path.resolve(__dirname, 'public')
+  },
   module: {
     rules: [
       {

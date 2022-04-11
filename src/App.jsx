@@ -1,5 +1,5 @@
 export function App() {
   return (
-    <h1>Injetando código javascript no html, com plugin do webpack</h1>
+    <h1>Configurando o Webpack Dev Server</h1>
   )
 }
